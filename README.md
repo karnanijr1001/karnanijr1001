@@ -7,7 +7,7 @@
   - [Challenges faced by the hospitals during COVID-19 case spikes](https://github.com/karnanijr1001/Challenges-faced-by-the-hospitals-during-COVID-19-case-spikes)
   - [Suicides in the US](https://github.com/karnanijr1001/Suicides-in-the-US)
 - <b>Internet of Things</b>
-  - [Motion Detector]()</b>
+  - [Motion Detector](https://github.com/karnanijr1001/Motion-Detector)</b>
   
 <h2> 🤳 Connect with me:</h2>
 
