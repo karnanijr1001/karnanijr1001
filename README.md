@@ -4,6 +4,7 @@
 
 - <b>Data analysis using Python (Tensorflow, Keras)</b>
   - [Epileptic Seizure Prediction Using Intracranial Brain using Python](https://github.com/karnanijr1001/Epileptic-Seizure-Prediction)
+  - [Challenges faced by the hospitals during COVID-19 case spikes]()
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
