@@ -1,12 +1,12 @@
 <h1>Hi, I'm Pranav! <br/><a href="https://github.com/karnanijr1001/karnanijr1001">Data/Business Analyst</a>, <a href="https://www.linkedin.com/in/pranav-karnani-687830196/"></h1>
 
-<h2>👨‍💻 Data and Marketing Analysis Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data and Marketing Analysis Projects</b>
   - [Epileptic-Seizure-Prediction in Python](https://github.com/karnanijr1001/Epileptic-Seizure-Prediction)
   - [Challenges faced by the hospitals during COVID-19 case spikes](https://github.com/karnanijr1001/Challenges-faced-by-the-hospitals-during-COVID-19-case-spikes)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Internet of Things ()</b>
+  - [Motion Detector]()</b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
