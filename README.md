@@ -5,7 +5,7 @@
 - <b>Data and Marketing Analysis Projects</b>
   - [Epileptic-Seizure-Prediction in Python](https://github.com/karnanijr1001/Epileptic-Seizure-Prediction)
   - [Challenges faced by the hospitals during COVID-19 case spikes](https://github.com/karnanijr1001/Challenges-faced-by-the-hospitals-during-COVID-19-case-spikes)
-- <b>Internet of Things ()</b>
+- <b>Internet of Things</b>
   - [Motion Detector]()</b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
