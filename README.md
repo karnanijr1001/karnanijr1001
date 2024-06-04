@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pranav! <br/><a href="https://github.com/karnanijr1001/karnanijr1001">Data/Business Analyst and an IOT Professional</a>, <a href="https://www.linkedin.com/in/pranav-karnani-687830196/"></h1>
+<h1>Hi, I'm Pranav! <br/><a href="https://github.com/karnanijr1001/karnanijr1001">Data/Business Analyst and an IOT Professional</a>. <a href="https://www.linkedin.com/in/pranav-karnani-687830196/"></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
