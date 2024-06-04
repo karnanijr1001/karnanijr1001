@@ -1,6 +1,6 @@
-<h1>Hi, I'm Pranav! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Pranav! <br/><a href="https://github.com/karnanijr1001/karnanijr1001">Data/Business Analyst</a>, <a href="https://www.linkedin.com/in/pranav-karnani-687830196/"></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data and Marketing Analysis Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Epileptic-Seizure-Prediction in Python](https://github.com/karnanijr1001/Epileptic-Seizure-Prediction)
