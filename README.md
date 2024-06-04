@@ -5,6 +5,7 @@
 - <b>Data and Marketing Analysis Projects</b>
   - [Epileptic-Seizure-Prediction in Python](https://github.com/karnanijr1001/Epileptic-Seizure-Prediction)
   - [Challenges faced by the hospitals during COVID-19 case spikes](https://github.com/karnanijr1001/Challenges-faced-by-the-hospitals-during-COVID-19-case-spikes)
+  - [Suicides in the US](https://github.com/karnanijr1001/Suicides-in-the-US)
 - <b>Internet of Things</b>
   - [Motion Detector]()</b>
 - <b>PowerShell</b>
