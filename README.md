@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data and Marketing Analysis Projects</b>
-  - [Marketing Strategy and Operations for Vana](https://github.com/karnanijr1001/Epileptic-Seizure-Prediction)
+  - [Marketing Strategy and Operations for Vana](https://github.com/karnanijr1001/Marketing-Strategy-and-Operations-for-Vana)
   - [Epileptic-Seizure-Prediction in Python](https://github.com/karnanijr1001/Epileptic-Seizure-Prediction)
   - [Challenges faced by the hospitals during COVID-19 case spikes](https://github.com/karnanijr1001/Challenges-faced-by-the-hospitals-during-COVID-19-case-spikes)
   - [Suicides in the US](https://github.com/karnanijr1001/Suicides-in-the-US)
